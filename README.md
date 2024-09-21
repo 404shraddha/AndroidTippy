@@ -5,7 +5,7 @@ AnroidTippy is a lightweight tip calculator built using pure Kotlin. It provides
 ## Demo:
 <img src="https://github.com/user-attachments/assets/0dac24a6-aa39-4eb5-b0d8-1a56a43960e7" alt="Screenshot 1" width="300"/>
 
-![Demo GIF](https://github.com/user-attachments/assets/demo-gif-file.gif)
+https://github.com/user-attachments/assets/a66601d6-0a00-4fe1-b3d6-b6c2ccd249b1
 
 ## Features:
 - **Pure Kotlin**: Built entirely with Kotlin, ensuring concise and expressive code.
@@ -16,4 +16,5 @@ AnroidTippy is a lightweight tip calculator built using pure Kotlin. It provides
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository-link.git
+
 
