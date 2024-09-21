@@ -1,4 +1,4 @@
-# AnroidTippy - A Simple Tip Calculator for Android
+# AndroidTippy - A Simple Tip Calculator for Android
 
 AnroidTippy is a lightweight tip calculator built using pure Kotlin. It provides a simple interface for calculating tips based on the total bill amount. 
 
