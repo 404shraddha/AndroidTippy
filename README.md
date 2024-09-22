@@ -15,6 +15,6 @@ AndroidTippy is a lightweight tip calculator built using pure Kotlin. It provide
 ## How to Install:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/404shraddha/AndroidTippy.git
 
 
